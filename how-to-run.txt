@@ -1,0 +1,7 @@
+Run this on your terminal one at a time 
+
+First: 
+javac -cp ".;mysql-connector-j-9.7.0.jar" LibraryApp.java
+
+Then: 
+java -cp ".;mysql-connector-j-9.7.0.jar" LibraryApp
